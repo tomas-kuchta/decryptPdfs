@@ -16,7 +16,7 @@ If no directory name is given, it searches current directory for
 any encrypted PDF files.
 
 Requires:
-qpdf
-  install by:
-    Ubuntu:   apt-get install qpdf
-    openSuSE: zypper  install qpdf
+qpdf<br>
+  install by:<br>
+    Ubuntu:   apt-get install qpdf<br>
+    openSuSE: zypper  install qpdf<br>
